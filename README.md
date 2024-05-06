@@ -1,16 +1,15 @@
-### Hi there 👋
+### ABOUT ME
 
-<!--
-**Abdulrivai/Abdulrivai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A Graphic Designer/UI UX Designer, has a passion for managing design, illustration, typography, etc
+Storytelling, having creativity is also being able to provide unique ideas during the design process. Look for
+New Role in Web/App Design to gain experience.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on Pandawa as Design Grafis
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### SKILL
+- REACT
+- CSS TAILWIND
+
+### CURRENTLY LEARNING
+- DART/FLUTER
+- PHP/LARAVEL
